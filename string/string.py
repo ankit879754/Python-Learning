@@ -16,66 +16,85 @@
 # 12. join()
 
 
-my_string = "ProGramMing"
-print(my_string.lower())
+# my_string = "ProGramMing"
+# print(my_string.lower())
 
-print(my_string.upper())
-# ---------------------------------------------------------
+# print(my_string.upper())
+# # ---------------------------------------------------------
 
-my_string = "java is programing language"
-print("befor opretion",my_string)
+# my_string = "java is programing language"
+# print("befor opretion",my_string)
 
-print(my_string.capitalize())
-# --------------------------------------------------------------
-my_string = "java is programing language"
-print("befor opretion",my_string)
+# print(my_string.capitalize())
+# # --------------------------------------------------------------
+# my_string = "java is programing language"
+# print("befor opretion",my_string)
 
-print(my_string.title())
-# ----------------------------------------------------------------------
-my_string = "java is programing language"
-print("befor opretion",my_string)
+# print(my_string.title())
+# # ----------------------------------------------------------------------
+# my_string = "java is programing language"
+# print("befor opretion",my_string)
 
-print(my_string.title())
-# ---------------------------------------------------------------------------
-my_string = "java is programing language"
-print("befor opretion",my_string)
+# print(my_string.title())
+# # ---------------------------------------------------------------------------
+# my_string = "java is programing language"
+# print("befor opretion",my_string)
 
-print(my_string.split())
-# --------------------------------------------------------------------------
-my_string = "          java is programing language"
-print("befor opretion",my_string)
+# print(my_string.split())
+# # --------------------------------------------------------------------------
+# my_string = "          java is programing language"
+# print("befor opretion",my_string)
 
-print(my_string.strip())
-# -------------------------------------------------------------------------
-my_string = "java is programing language"
-print("befor opretion",my_string)
+# print(my_string.strip())
+# # -------------------------------------------------------------------------
+# my_string = "java is programing language"
+# print("befor opretion",my_string)
 
-print(my_string.count('m'))
-print(my_string.count('r'))
-print(my_string.count('a'))
-# -----------------------------------------------
-my_string = "java is programing language"
-print("befor opretion",my_string)
+# print(my_string.count('m'))
+# print(my_string.count('r'))
+# print(my_string.count('a'))
+# # -----------------------------------------------
+# my_string = "java is programing language"
+# print("befor opretion",my_string)
 
-print("after opretion",my_string.index("j"))
-print("after opretion",my_string.index("v"))
-# -----------------------------------------------------------------------------
-my_string = "java is programing language"
-print("befor opretion",my_string)
+# print("after opretion",my_string.index("j"))
+# print("after opretion",my_string.index("v"))
+# # -----------------------------------------------------------------------------
+# my_string = "java is programing language"
+# print("befor opretion",my_string)
 
-print("after opretion",my_string.find("v"))
-# ---------------------------------------------------------------------------------
-my_string = "java is programing language"
-print("befor opretion",my_string)
+# print("after opretion",my_string.find("v"))
+# # ---------------------------------------------------------------------------------
+# my_string = "java is programing language"
+# print("befor opretion",my_string)
+# print("this is ankit")
 
-print("after opretion",my_string.find("programing"))
-# --------------------------------------------------------------------------
-my_string = "java is programing language"
-my_second_string="python"
-print("befor opretion",my_string)
+# print("after opretion",my_string.find("programing"))
+# # --------------------------------------------------------------------------
+# my_string = "java is programing language"
+# my_second_string="python"
+# print("befor opretion",my_string)
 
-print("after opretion",len(my_string))
-print("after opretion",len(my_second_string))
+# print("after opretion",len(my_string))
+# print("after opretion",len(my_second_string))
+# ------------------------------------------------------------------------------------
+# my_string = "java is programing language"
+# my_second_string="python"
+# print("befor opretion",my_string)
+
+# print("after opretion",my_string.replace("java","python"))
+# ------------------------------------------------------------------------------------------
+# first_name="ankit"
+# last_name= "dubey"
+# print(first_name.join(last_name))
+
+
+print("ankit")
+print("neha")
+print("vivek")
+print("nidhi")
+print("rohan")
+print("rohit")
 
 
 
